@@ -47,6 +47,6 @@ for data in contents:
 
     for cmd in commands:
         print(cmd.encode())
-        time.sleep(2)
+        # time.sleep()
 
 
